@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include",
+                "/usr/include/rga",
+                "/home/orangepi/rknpu2/runtime/RK3588/Linux/librknn_api/include",
+                "/usr/include/drm"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-arm64"
+        }
+    ],
+    "version": 4
+}

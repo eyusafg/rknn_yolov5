@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_video_demo.dir/src/main_video.cc.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/main_video.cc",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/main_video.cc"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_video_demo.dir/src/postprocess.cc.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/postprocess.cc",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/postprocess.cc"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_video_demo.dir/utils/mpp_decoder.cpp.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/mpp_decoder.cpp",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/mpp_decoder.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_video_demo.dir/utils/mpp_encoder.cpp.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/mpp_encoder.cpp",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/mpp_encoder.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_video_demo.dir/utils/drawing.cpp.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/drawing.cpp",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/utils/drawing.cpp"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_demo.dir/src/main.cc.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/main.cc",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/main.cc"
+},
+{
+  "directory": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DBUILD_VIDEO_RTSP -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../../runtime/RK3588/Linux/librknn_api/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/rga/RK3588/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/mpp/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/../3rdparty/zlmediakit/include -I/home/orangepi/rknpu2/examples/rknn_yolov5_demo/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include -isystem /home/orangepi/rknpu2/examples/3rdparty/opencv/opencv-linux-aarch64/include/opencv  -g   -std=gnu++11 -o CMakeFiles/rknn_yolov5_demo.dir/src/postprocess.cc.o -c /home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/postprocess.cc",
+  "file": "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/src/postprocess.cc"
+}
+]

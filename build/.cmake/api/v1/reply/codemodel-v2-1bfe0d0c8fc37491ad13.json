@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rknn_yolov5_demo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rknn_yolov5_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rknn_yolov5_demo-Debug-a48603e02c84228a271f.json",
+					"name" : "rknn_yolov5_demo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rknn_yolov5_video_demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rknn_yolov5_video_demo-Debug-4868f818a01f819de934.json",
+					"name" : "rknn_yolov5_video_demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/orangepi/rknpu2/examples/rknn_yolov5_demo/build",
+		"source" : "/home/orangepi/rknpu2/examples/rknn_yolov5_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
